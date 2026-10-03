@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './Home.css';
+import './home.css';
 
 function Home({ language }) {
     // State for interactive chat widget popup

@@ -2,7 +2,7 @@
 .home-container {
     width: 100%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #e7eaf0;
+    color: #dfdfdf;
 }
 
 /* Hero Section with Clean White & Soft Transparent Overlay */
@@ -14,7 +14,7 @@
     justify-content: center;
     text-align: center;
     padding: 60px 20px;
-    color: #0f172a;
+    color: #a9adb6;
 }
 
 .hero-content {
